@@ -239,12 +239,22 @@ The complete 20-slide presentation walks through the project objectives, system 
 Explore the complete Personal Expense Tracker project through its detailed presentation and documentation.
 
 The presentation covers system architecture, C programming concepts, structures, functions, pointers, TXT file handling, expense analysis, and budget management.
+## 📊 Project Presentation
 
-### 📄 presentation/Personal_Expense_Tracker_Complete_Explained.pdf
+Explore the complete Personal Expense Tracker project through a detailed PDF presentation.
 
+The presentation covers:
+- Project overview and objectives
+- System architecture
+- Structures and arrays
+- Functions and parameter passing
+- Pointers and memory management
+- TXT file handling
+- Daily and monthly expense analysis
+- Budget management
+- Code efficiency and future improvements
 
-### 📽️ [Download PowerPoint Presentation](presentation/Personal_Expense_Tracker_Complete_Explained.pptx)
-
+### 📄 [View Complete Project Presentation (PDF)](presentation/Personal_Expense_Tracker_Complete_Explained.pdf)
 ## Future Scope
 
 Possible improvements include a graphical interface, database-backed storage, recurring transactions, user accounts, and richer visual analytics. These are **not included** in the current version.
