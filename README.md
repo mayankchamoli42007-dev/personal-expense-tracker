@@ -234,7 +234,15 @@ The complete 20-slide presentation walks through the project objectives, system 
 
 **[Open the project presentation](presentation/Personal_Expense_Tracker_Complete_Explained.pptx)**
 
-> The presentation is included in the `presentation/` folder. Keep this folder structure when uploading to GitHub.
+> ## 📊 Project Presentation & Documentation
+
+Explore the complete Personal Expense Tracker project through its detailed presentation and documentation.
+
+The presentation covers system architecture, C programming concepts, structures, functions, pointers, TXT file handling, expense analysis, and budget management.
+
+### 📄 [View Project Presentation (PDF)](presentation/Personal_Expense_Tracker_Presentation.pdf)
+
+### 📽️ [Download PowerPoint Presentation](presentation/Personal_Expense_Tracker_Complete_Explained.pptx)
 
 ## Future Scope
 
